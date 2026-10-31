@@ -105,6 +105,9 @@ Through this project, I explored:
 - Saving and loading trained models using Pickle and Keras.
 - Deploying an interactive machine learning application using Streamlit.
 
+## Here is the Live Demo guys go and check just try it!!
+link : https://nextwordprediction-jtspnqx3gkmuokr2uvxzse.streamlit.app/
+
 ## 👩‍💻 Author
 
 **Vibhasha Suthar**
