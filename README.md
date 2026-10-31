@@ -108,6 +108,10 @@ Through this project, I explored:
 ## Here is the Live Demo guys go and check just try it!!
 link : https://nextwordprediction-jtspnqx3gkmuokr2uvxzse.streamlit.app/
 
+<img width="1366" height="630" alt="Screenshot (529)" src="https://github.com/user-attachments/assets/a58b592f-f208-4a01-a1b0-a7a0cdc90fb1" />
+
+
+
 ## 👩‍💻 Author
 
 **Vibhasha Suthar**
