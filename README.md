@@ -109,6 +109,7 @@ Through this project, I explored:
 link : https://nextwordprediction-jtspnqx3gkmuokr2uvxzse.streamlit.app/
 
 
+<img width="1366" height="641" alt="Screenshot (530)" src="https://github.com/user-attachments/assets/9f6833e5-ccd1-46c7-bd56-c17ca4b9a06b" />
 
 
 
