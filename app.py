@@ -2,14 +2,8 @@ import streamlit as st
 import pickle
 import numpy as np
 
-try:
-    from tensorflow.keras.models import load_model
-    from tensorflow.keras.preprocessing.sequence import pad_sequences
-except ImportError:
-    # Fall back to standalone Keras if TensorFlow is not installed
-    from keras.models import load_model
-    from keras.preprocessing.sequence import pad_sequences
-
+from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 # ------------------------------
 # Load saved files
 # ------------------------------
