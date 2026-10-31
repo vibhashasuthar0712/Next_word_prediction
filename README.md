@@ -112,6 +112,20 @@ link : https://nextwordprediction-jtspnqx3gkmuokr2uvxzse.streamlit.app/
 <img width="1366" height="641" alt="Screenshot (530)" src="https://github.com/user-attachments/assets/9f6833e5-ccd1-46c7-bd56-c17ca4b9a06b" />
 
 
+## Limitations
+
+- The model is trained on a small dataset of approximately 300 sentences.
+- Predictions are limited to the vocabulary and patterns learned during training.
+- The model may not generate accurate predictions for unfamiliar or complex sentences.
+- This project was developed for learning and practicing LSTM-based next-word prediction.
+
+## Future Improvements
+
+- Train the model on a larger and more diverse text dataset.
+- Experiment with different LSTM architectures and hyperparameters.
+- Improve vocabulary coverage and prediction accuracy.
+- Explore advanced language models for better contextual predictions.
+
 
 ## 👩‍💻 Author
 
